@@ -1,0 +1,4 @@
+([('epf_excel',
+   '/Users/darwishnazari/Desktop/Excel '
+   'Automation/epf-excel-automation/dist/epf_excel',
+   'EXECUTABLE')],)
